@@ -1,0 +1,6 @@
+services:
+ -type: web
+ name: python
+ env: python
+ buildCommand: ""
+ startCommand: ./start.sh
